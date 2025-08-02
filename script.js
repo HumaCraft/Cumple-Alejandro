@@ -203,7 +203,7 @@ async function enviarDatos(asistencia) {
 
         // Mostrar mensaje personalizado
         if (asistencia === "Si") {
-            alert("¡Gracias por confirmar asistencia!");
+            alert("¡Gracias por confirmar tu asistencia!");
         } else {
             alert("¡Lamento que no puedas asistir!");
         }
